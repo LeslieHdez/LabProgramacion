@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1711134694 source:c:\users\herna\onedrive\documentos\laboratorio de programacion ii\labprogramacionii\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Cliente.h"
+	"Prestamo.h"
+
+1711128149 c:\users\herna\onedrive\documentos\laboratorio de programacion ii\labprogramacionii\cliente.h
+	<string>
+
+1711128149 c:\users\herna\onedrive\documentos\laboratorio de programacion ii\labprogramacionii\prestamo.h
+	"Cliente.h"
+	"Pago.h"
+
+1711128149 c:\users\herna\onedrive\documentos\laboratorio de programacion ii\labprogramacionii\pago.h
+	"Fecha.h"
+
+1711128149 c:\users\herna\onedrive\documentos\laboratorio de programacion ii\labprogramacionii\fecha.h
+	<iostream>
+
+1711128149 source:c:\users\herna\onedrive\documentos\laboratorio de programacion ii\labprogramacionii\cliente.cpp
+	"Cliente.h"
+
+1711128149 source:c:\users\herna\onedrive\documentos\laboratorio de programacion ii\labprogramacionii\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1711128149 source:c:\users\herna\onedrive\documentos\laboratorio de programacion ii\labprogramacionii\pago.cpp
+	"Pago.h"
+
+1711128149 source:c:\users\herna\onedrive\documentos\laboratorio de programacion ii\labprogramacionii\prestamo.cpp
+	"Prestamo.h"
+	"Cliente.h"
+	"Pago.h"
+	"Fecha.h"
+
